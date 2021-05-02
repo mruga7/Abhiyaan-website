@@ -1,2 +1,2 @@
-# abhiyaan
-Website for college
+# Ahiyaan
+Website for college festival
